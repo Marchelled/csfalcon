@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/favicon.ico"  | https://thetanz.github.io/csfalcon/assets/favicon.ico }}">
+
 <a href="https://www.theta.co.nz/solutions/cyber-security/">
 <img src="https://avatars0.githubusercontent.com/u/2897191?s=70&v=4" 
 title="Theta Cybersecurity" alt="Theta Cybersecurity">
